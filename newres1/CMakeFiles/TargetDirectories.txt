@@ -1,0 +1,3 @@
+C:/Users/elenka/Documents/GitHub/pierwszalaba/newres1/CMakeFiles/laba1.dir
+C:/Users/elenka/Documents/GitHub/pierwszalaba/newres1/CMakeFiles/ALL_BUILD.dir
+C:/Users/elenka/Documents/GitHub/pierwszalaba/newres1/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\ELENKA\DOCUMENTS\GITHUB\PIERWSZALABA\NEWRES1\CMAKEFILES\1048E160763B9D682C981B59E81FCDEC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/elenka/Documents/GitHub/Laba/Res 1" -BC:/Users/elenka/Documents/GitHub/pierwszalaba/newres1 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/elenka/Documents/GitHub/pierwszalaba/newres1/laba1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

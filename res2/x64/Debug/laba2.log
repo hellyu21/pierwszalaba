@@ -1,0 +1,4 @@
+﻿  laba2.cpp
+C:\Users\elenka\Documents\laba2\laba2.cpp(29,21): warning C4305: инициализация: усечение из "int" в "unsigned char"
+C:\Users\elenka\Documents\laba2\laba2.cpp(29,23): warning C4309: инициализация: усечение константного значения
+  laba2.vcxproj -> C:\Users\elenka\Documents\laba2\x64\Debug\laba2.exe
